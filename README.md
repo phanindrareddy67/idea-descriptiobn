@@ -1,1 +1,1 @@
-# idea-descriptiobn
+# idea-description
